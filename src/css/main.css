@@ -1,6 +1,6 @@
 /* Your CSS here. */
 :root {
-  --card-bg: #6c6c6c;     
+  --card-bg: #3d2626;     
   --page-bg: #ffffff;     
   --text: #ffffff;              
   --link: #5a4cff;        
@@ -27,8 +27,8 @@ body {
 }
 
 .headshot {
-  width: 180px;
-  height: 180px;
+  width: 150px;
+  height: 150px;
   object-fit: cover;
   display: block;
 }
